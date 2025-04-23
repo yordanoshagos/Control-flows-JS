@@ -1,1 +1,1 @@
-# Control-flows-JS
+# This repository contains JS exercises in control flows.
